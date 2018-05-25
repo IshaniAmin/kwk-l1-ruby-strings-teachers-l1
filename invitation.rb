@@ -17,8 +17,8 @@ host_name = gets.chomp.capitalize
 
 puts "Dear #{guest_name},
 
-You are cordially invited to the #{party_name} Ever on October 31 at 6pm. Please RSVP no later than October 30.
+You are cordially invited to the #{party_name} Ever on October 31 at #{time}. Please RSVP no later than October 30.
 
 Sincerely,
 
-Harry Potter"
+#{host_name}"
