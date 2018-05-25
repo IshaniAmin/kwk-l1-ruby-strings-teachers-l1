@@ -12,4 +12,4 @@ puts "Enter time"
 time = gets.chomp
 
 puts "Host name"
-host_name = 
+host_name = gets.chomp.capitilize
