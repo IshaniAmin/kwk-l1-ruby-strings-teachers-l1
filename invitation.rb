@@ -1,17 +1,17 @@
 puts "Hi, you've been invited to a party! What is your name?"
-guest_name = gets.chomp.upcase
+guest_name = gets.chomp.titlecase
 
 puts "Enter party name"
-party_name = gets.chomp.upcase
+party_name = gets.chomp.titlecase
 
 puts "Enter date"
-date = gets.chomp.upcase
+date = gets.chomp.titlecase
 
 puts "Enter time"
 time = gets.chomp
 
 puts "Host name"
-host_name = gets.chomp.upcase
+host_name = gets.chomp.titlecase
 
 
 puts "Dear #{guest_name},
