@@ -10,3 +10,6 @@ date = gets.chomp.capitilize
 
 puts "Enter time"
 time = gets.chomp
+
+puts "Host name"
+host_name = 
