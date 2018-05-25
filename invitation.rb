@@ -1,18 +1,18 @@
 
 puts "Enter guest name"
-guest_name = gets.chomp.capitilize
+guest_name = gets.chomp.capitalize
 
 puts "Enter party name"
-party_name = gets.chomp.capitilize
+party_name = gets.chomp.capitalize
 
 puts "Enter date"
-date = gets.chomp.capitilize
+date = gets.chomp.capitalize
 
 puts "Enter time"
 time = gets.chomp
 
 puts "Host name"
-host_name = gets.chomp.capitilize
+host_name = gets.chomp.capitalize
 
 
 puts "Dear Hermione,
