@@ -10,4 +10,3 @@ date = gets.chomp.capitilize
 
 puts "Enter time"
 time = gets.chomp
-
